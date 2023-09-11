@@ -32,7 +32,7 @@ _Checkout, **Tela de produto**, Catálogo, Home com banner_
 
 ### Imagem externa
 
-![Logo do PHP](https://commons.wikimedia.org/wiki/Help:SVG)
+![Logo do PHP](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg)
 
 ### Links interessantes
 
@@ -41,3 +41,5 @@ _Checkout, **Tela de produto**, Catálogo, Home com banner_
 [https://www.google.com](https://www.google.com)
 
 Contribuitdor principal:(https://github.com/suelenfrancis)
+
+[![Logo do PHP](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg)] (https://github.com/suelenfrancis)
