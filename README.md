@@ -42,4 +42,4 @@ _Checkout, **Tela de produto**, Catálogo, Home com banner_
 
 Contribuitdor principal:(https://github.com/suelenfrancis)
 
-[![Logo do PHP](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg)] (https://github.com/suelenfrancis)
+[![Logo do PHP](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg)](https://github.com/suelenfrancis)
