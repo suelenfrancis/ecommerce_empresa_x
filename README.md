@@ -20,8 +20,8 @@ _Checkout, **Tela de produto**, Catálogo, Home com banner_
 ### Funcionalidades a desenvolver
 
 1. Área de membros
-1. Login diferente para grupo de clientes
-1. Desconto especial para grupo de clientes
-1. CSS diferente para grupos diferentes
+   1. Login diferente para grupo de clientes
+   2. Desconto especial para grupo de clientes
+   3. CSS diferente para grupos diferentes
 1. Integração com outros pagamentos
 1. Sistema de bônus primeira compra
