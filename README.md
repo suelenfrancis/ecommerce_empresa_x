@@ -33,3 +33,7 @@ _Checkout, **Tela de produto**, Catálogo, Home com banner_
 ### Imagem externa
 
 ![Logo do PHP](https://commons.wikimedia.org/wiki/Help:SVG)
+
+### Links interessantes
+
+[Google](https://www.google.com)
