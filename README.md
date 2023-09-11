@@ -39,3 +39,5 @@ _Checkout, **Tela de produto**, Catálogo, Home com banner_
 [Google](https://www.google.com)
 
 [https://www.google.com](https://www.google.com)
+
+Contribuitdor principal:(https://github.com/suelenfrancis)
